@@ -1,66 +1,72 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+
+
+<div align="center">
+<h1> CRUD with Laravel </h1>
+<h2> </h2>
+
+---
+
+
+  > CRUD HOME PAGE
+  [![Screenshot-2023-06-16-at-1-42-36-PM.png](https://i.postimg.cc/Dw929fJK/Screenshot-2023-06-16-at-1-42-36-PM.png)](https://postimg.cc/87bQWSmy)
+  ---
+  
+  > CRUD ADD DATA PAGE
+  [![Screenshot-2023-06-16-at-1-42-52-PM.png](https://i.postimg.cc/02H5C09j/Screenshot-2023-06-16-at-1-42-52-PM.png)](https://postimg.cc/xcMSfHJV)
+  ---
+  
+  > CRUD ADD DATA PAGE (Required field)
+  [![Screenshot-2023-06-16-at-1-42-55-PM.png](https://i.postimg.cc/jdjdNF0B/Screenshot-2023-06-16-at-1-42-55-PM.png)](https://postimg.cc/vDpswXmv)
+  ---
+  
+  > CRUD ADD DATA (Successfully alert)
+  [![Screenshot-2023-06-16-at-1-43-19-PM.png](https://i.postimg.cc/y8g1p3NP/Screenshot-2023-06-16-at-1-43-19-PM.png)](https://postimg.cc/dhFcL1rk)
+  ---
+  
+  > CRUD EDIT DATA PAGE
+  [![Screenshot-2023-06-16-at-1-43-28-PM.png](https://i.postimg.cc/mDGgHZBS/Screenshot-2023-06-16-at-1-43-28-PM.png)](https://postimg.cc/2q2YpDqq)
+  ---
+  
+  > CRUD EDIT DATA PAGE (Successfully alert)
+  [![Screenshot-2023-06-16-at-1-43-39-PM.png](https://i.postimg.cc/x8fj6skJ/Screenshot-2023-06-16-at-1-43-39-PM.png)](https://postimg.cc/2btf677r)
+  ---
+  
+  > CRUD DELETE DATA (with confirm delete box)
+  [![Screenshot-2023-06-16-at-1-43-44-PM.png](https://i.postimg.cc/gjgzQvRM/Screenshot-2023-06-16-at-1-43-44-PM.png)](https://postimg.cc/bS2f2Smb)
+  ---
+  
+  > CRUD DELETE DATA (Successfully alert)
+  [![Screenshot-2023-06-16-at-1-43-47-PM.png](https://i.postimg.cc/sX9D9F2C/Screenshot-2023-06-16-at-1-43-47-PM.png)](https://postimg.cc/mzksB5Mm)
+  ---
+  
+  > CRUD PAGINATION 
+  [![Screenshot-2023-06-16-at-1-43-54-PM.png](https://i.postimg.cc/HkRxT4NR/Screenshot-2023-06-16-at-1-43-54-PM.png)](https://postimg.cc/hX8grxc1)
+  ---
+  
+  
+ 
+---
+
+### :hammer_and_wrench: Languages and Tools
+<div>
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=laravel,php,css,html,boostrap" />
+  </a>
 </p>
+</div>
 
-## About Laravel
+</div>
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+---
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+<div align="center">
+  
+thanks to Patiphan youtube channel for teaching
+  </div>
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-## Learning Laravel
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
